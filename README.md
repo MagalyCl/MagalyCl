@@ -1,12 +1,10 @@
 - 👋 Hi, I’m Clara Magaly
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java e JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Ela/Dela | She/Her
-- ⚡ Fun fact: ...
 
-<!---
-MagalyCl/MagalyCl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ## Estou aprendendo
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" heigth="40" />
+
+<div>
+<a href="https://github.com/MagalyCl">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagalyCl&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MagalyCl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
