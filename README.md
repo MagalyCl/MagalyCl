@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Clara Magaly
+# Clara Magaly
+## Hello, Devs!!
 
-  ## Estou aprendendo
-<img loading="lazy" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" heigth="40" />
+## Ferramentas e tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" heigth="40" />
+
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" heigth="40" />
 
 <div>
 <a href="https://github.com/MagalyCl">
