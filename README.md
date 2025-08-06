@@ -3,7 +3,6 @@
 <div>
 <a href="https://github.com/MagalyCl">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagalyCl&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=MagalyCl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
@@ -12,7 +11,6 @@
 <img align="center" alt="logoJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" >
 <img align="center" alt="logoHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="logoCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="logoC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
 <img align="center" alt="logoJava" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  >
 </div>
 
